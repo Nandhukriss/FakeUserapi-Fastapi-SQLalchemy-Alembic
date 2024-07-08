@@ -11,7 +11,8 @@ This project is a FastAPI application that provides a RESTful API for managing f
 
 ## Swagger API Documentation
 
-![Swagger API Documentation]([assets/swagger-doc.png](https://github.com/Nandhukriss/fakeUserAPI-Fastapi/assets/103727372/b130d0b3-ada5-48cc-8849-31d535c25f96))
+![Swagger API Documentation](https://github.com/Nandhukriss/fakeUserAPI-Fastapi/assets/103727372/b130d0b3-ada5-48cc-8849-31d535c25f96)
+
 
 ## Requirements
 
